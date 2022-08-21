@@ -1,0 +1,1 @@
+web: java -Dserver.port=$PORT -jar build/libs/authentication-service-0.0.1.jar --spring.profiles.active=development
